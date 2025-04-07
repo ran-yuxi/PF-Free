@@ -5,7 +5,7 @@ Yuxi Ran (Wuhan University, Wuhan, China)
 yx.ran@whu.edu.cn
 
 ## Brief Introduction of PF-Free
-##############################
+##
 The data quality issue induced by atmospheric and other disturbances can significantly impede the application of remote sensing vegetation indices (VIs). 
 Despite the development of numerous VI reconstruction techniques, two major challenges remain, i.e., the reliance on quality flag inputs and parameter 
 settings. Quality flags are usually necessary as inputs for the different methods to improve the reconstruction accuracy, but mislabeling can be common 
@@ -22,7 +22,7 @@ experiments also prove the effectiveness of PF-Free in processing data without q
 High-Resolution Radiometer (AVHRR) data and Moderate Resolution Imaging Spectroradiometer (MODIS) daily normalized difference vegetation index (NDVI) 
 data. This work provides a practical reconstruction method for VI time series, which is both flexible and convenient, without requiring any parameter
 or flag input, which we believe will advance VI reconstruction applications.
-##############################
+##
 
 ## Code Language
 MATLAB R2022a
