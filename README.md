@@ -29,7 +29,10 @@ MATLAB R2022a
 We have provided a test case (see test.m) with clear annotations
 
 ## For more details,see the following papers:
-Shen H, Ran Y, Guan X, et al. A Parameter and Flag Adaptive Reconstruction Method (PF-Free) for Satellite Vegetation Index Time Series. lEEE Transactions on Geoscience and Remote sensing.
-Craven P, Wahba G. Smoothing noisy data with spline functions: estimating the correct degree of smoothing by the method of generalized cross-validation. Numerische mathematik, 1978, 31(4): 377-403.
-Brezinski C, Redivo-Zaglia M, Rodriguez G, et al. Multi-parameter regularization techniques for ill-conditioned linear systems. Numerische Mathematik, 2003, 94: 203-228.
+Shen H, Ran Y, Guan X, et al. A Parameter and Flag Adaptive Reconstruction Method (PF-Free) for Satellite Vegetation Index Time Series. lEEE Transactions on Geoscience and Remote sensing.  
+
+Craven P, Wahba G. Smoothing noisy data with spline functions: estimating the correct degree of smoothing by the method of generalized cross-validation. Numerische mathematik, 1978, 31(4): 377-403.  
+
+Brezinski C, Redivo-Zaglia M, Rodriguez G, et al. Multi-parameter regularization techniques for ill-conditioned linear systems. Numerische Mathematik, 2003, 94: 203-228.  
+
 储栋,管小彬,沈焕锋.考虑全时间序列信息的NDVI变分重建方法.地理与地理信息科学,2023,39(03):31-39.
